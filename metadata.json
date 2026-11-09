@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة المدارس الموريتانية | RIM School Manager",
+  "description": "منظومة متكاملة لإدارة المدارس وفق النظام التعليمي الموريتاني: تسيير التلاميذ، كشوف النقاط الرسمية، المحاسبة بالأوقية MRU، ومتابعة الحضور باللغتين العربية والفرنسية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
